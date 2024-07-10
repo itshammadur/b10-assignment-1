@@ -336,7 +336,8 @@ label input{
     border-radius: 8px;
     background: rgb(255, 255, 255);
     margin-top: 40px;
-    margin-left: 100px;  
+    margin-left: 200px;
+  
 }
 
 input[type="text"]{
